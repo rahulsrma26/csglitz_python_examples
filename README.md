@@ -4,7 +4,7 @@ csglitz Python Examples
 This repository contains the source code for free online python tutorial series on [YouTube](https://www.youtube.com/watch?v=WCtbRT4KH60&list=PLM-vp8P4zveXYkzPrtiT4VZhZN3gGHYN3).
 
 Links:
-* [Full course YouTube playlist](https://www.youtube.com/watch?v=WCtbRT4KH60&list=PLM-vp8P4zveXYkzPrtiT4VZhZN3gGHYN3)
+* [Running course YouTube playlist](https://www.youtube.com/watch?v=WCtbRT4KH60&list=PLM-vp8P4zveXYkzPrtiT4VZhZN3gGHYN3)
 * [Hackerrank Assignments](https://www.hackerrank.com/csglitz-python-assignments)
 
 Helpful links:
